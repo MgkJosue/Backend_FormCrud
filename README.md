@@ -6,7 +6,7 @@ Aqui es donde se maneja la logica del servidor, el Backend se conecta con la bas
 
 
 # Ejecución del proyecto
-Para poder ejecutar el proyecto es necesario tener instalado python y las librerias pertinentes para el desarrollo, que son SqlAlchemy como ORM y FastApi para poder hacer el servicio y obivamente tener configurada la base de datos
+Para poder ejecutar el proyecto es necesario tener instalado python y las librerias pertinentes para el desarrollo, que son SqlAlchemy(ORM), FastApi y uvicorn para poder hacer el servicio y obviamente tener configurada la base de datos
 
 Para ejecutar el proyecto colocar unicamente el siguiente comando
 
